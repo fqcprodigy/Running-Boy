@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>characterpics/mermaid_body.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{943, 943}, {940, 940}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {940, 940}}</string>
+			<key>sourceSize</key>
+			<string>{940, 940}</string>
+		</dict>
+		<key>characterpics/mermaid_left_arm.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 943}, {940, 940}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {940, 940}}</string>
+			<key>sourceSize</key>
+			<string>{940, 940}</string>
+		</dict>
+		<key>characterpics/mermaid_lowerbody1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{943, 1}, {940, 940}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {940, 940}}</string>
+			<key>sourceSize</key>
+			<string>{940, 940}</string>
+		</dict>
+		<key>characterpics/mermaid_right_arm.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {940, 940}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {940, 940}}</string>
+			<key>sourceSize</key>
+			<string>{940, 940}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{4096, 2048}</string>
+		<key>textureFileName</key>
+		<string>characterpics.png</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PeevedPenguinsAssets/Shark.psd</key>
+	<string>PeevedPenguinsAssets/Shark.png</string>
+	<key>PeevedPenguinsAssets/Star.psd</key>
+	<string>PeevedPenguinsAssets/Star.png</string>
+	<key>PeevedPenguinsAssets/cliff2.psd</key>
+	<string>PeevedPenguinsAssets/cliff2.png</string>
+	<key>PeevedPenguinsAssets/star2.psd</key>
+	<string>PeevedPenguinsAssets/star2.png</string>
+	<key>PeevedPenguinsAssets/star3.psd</key>
+	<string>PeevedPenguinsAssets/star3.png</string>
+</dict>
+</plist>
